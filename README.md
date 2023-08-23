@@ -14,5 +14,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue" alt="">
     <br>
     <br>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,redis" alt="">
+    <br>
+    <br>
     <img src="https://skillicons.dev/icons?i=pr,ps,ai">
 </div>
