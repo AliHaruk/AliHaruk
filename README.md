@@ -5,4 +5,4 @@
 <!--- Skills --->
 <h2>🔰 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀</h2>
 
-<p><img src="https://cdn.discordapp.com/attachments/1112694971603095625/1143926734803173426/2101px-Adobe_Photoshop_CC_icon.png" style="width: 24px;height: 24px;"> ┇ Photoshop</p>
+<code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
