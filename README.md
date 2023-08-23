@@ -3,6 +3,16 @@
 
 
 <!--- Skills --->
-<h2>🔰 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀</h2>
+<h2 align='center'>🔰 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀</h2>
 
-<code><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"></code>
+<div align="center">
+    <p>I am currently employed as a Full Stack Developer, utilizing my skills and expertise in various programming languages and technologies.</p>
+    <br>
+    <img src="https://skillicons.dev/icons?i=lua,py,qt,c,cpp,cs,nodejs,java,kotlin">
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue" alt="">
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=pr,ps,ai">
+</div>
